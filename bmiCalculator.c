@@ -1,3 +1,4 @@
+//By Khaled Nadam
 #include <stdio.h>
 #include <stdlib.h>
 double bmiCalc(double w, double h);
